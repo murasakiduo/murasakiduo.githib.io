@@ -1,0 +1,30 @@
+<head>
+	<!--  Basic Page Needs -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	{% if page.description %}
+	<meta name="description" content="{{ page.description }}">
+	{% endif %}
+	{% comment %}
+	<meta name="description" content="{{ site.description }}">
+	{% endcomment %}
+
+	{% comment %}
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	{% endcomment %}
+
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">  
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.cdnurl }}" />
+	<link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.cdnurl }}" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" media="all" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css">
+	<link href="http://murasakiduo.com/css/master.css" media="screen, projection" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]><link href="http://murasakiduo.com/css/ie7.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lt IE 7]><link href="http://murasakiduo.com/css/ie6.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if lt IE 6]><link href="http://murasakiduo.com/css/ie5.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->	
+</head>

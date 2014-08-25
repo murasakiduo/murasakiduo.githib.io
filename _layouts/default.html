@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html dir="ltr" id="murasakiduo-com" lang="en-US">
+{% include assign-timestamps.html %}
+{% include head.html %}
+<body>
+  {% if site.production %}
+  {% include analytics.html %}
+  {% endif %}
+  <ul id="nav-access">
+    <li>[<a accesskey="0" href="#nav-main" title="access key + 0">Skip to navigation</a>]</li>
+    <li>[<a accesskey="1" href="#content-main" title="access key + 1">Skip to main content</a>]</li>
+    <li>[<a accesskey="3" href="#siteinfo" title="access key + 3">Skip to site information</a>]</li>
+  </ul> 
+  <div id="container">
+    {% include header.html %}
+    <div id="content">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+   </div> 
+</body>
+</html>

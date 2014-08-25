@@ -1,0 +1,12 @@
+# Site settings
+title: Murasaki Duo
+email: murasakiduo@yahoo.com
+description: "Since its founding in 1996, the Murasaki Duo has been dedicated to performing the cello and piano literature as chamber music. It has concertized throughout the United States, Canada, and Scandinavia, including concerts in New York City, Chicago, Toronto, Copenhagen, and Oslo, and it has won recognition as one of the leading ensembles of its genre."
+baseurl: ""
+url: "http://murasakiduo.com/"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty

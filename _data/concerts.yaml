@@ -1,0 +1,161 @@
+- name: Amy Jacobson
+  lastname: Jacobson
+  firstname: Amy
+  title: WIND-AM
+  img_src: /assets/images/celebrities/amy-jacobson.jpg
+  url: 
+  role: Bartender  
+  day: Friday
+
+- name: Bill Zwecker
+  lastname: Zwecker
+  firstname: Bill
+  title: FOX Chicago & Chicago Sun-Times
+  img_src: /assets/images/celebrities/bill-zwecker.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Jim Ryan
+  lastname: Ryan
+  firstname: Jim
+  title: ChicagoNow Blogger & WIMS
+  img_src: /assets/images/celebrities/jim-ryan.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Aly Bockler
+  lastname: Bockler
+  firstname: Aly
+  title: WCIU-TV
+  img_src: /assets/images/celebrities/aly-bockler.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Andrea Metcalf
+  lastname: Metcalf
+  firstname: Andrea
+  title: Celebrity/Personal Trainer
+  img_src: /assets/images/celebrities/andrea-metcalf.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Dana Kozlov
+  lastname: Kozlov
+  firstname: Dana 
+  title: CBS 2 Chicago Reporter
+  img_src: /assets/images/celebrities/dana-kozlov.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Amy Rutledge
+  lastname: Rutledge
+  firstname: Amy
+  title: WGN
+  img_src: /assets/images/celebrities/amy-rutledge.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Showbiz Shelly
+  lastname: Shelly
+  firstname: Showbiz
+  title: B 96
+  img_src: /assets/images/celebrities/showbiz-shelly.jpg
+  url:   
+  role: Bartender  
+  day: Friday
+
+- name: Kris Gutierrez
+  lastname: Gutierrez
+  firstname: Kris
+  title: Morning Anchor WBBM-TV / CBS 2 Chicago
+  img_src: /assets/images/celebrities/kris-gutierrez.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Krystle Gutierrez
+  lastname: Gutierrez
+  firstname: Krystle
+  title: Traffic Reporter WGN
+  img_src: /assets/images/celebrities/krystle-gutierrez.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Ana Belaval
+  lastname: Belaval
+  firstname: Ana
+  title: WGN Around Town
+  img_src: /assets/images/celebrities/ana-belaval.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Dina Bair
+  lastname: Bair
+  firstname: Dina
+  title: WGN Anchor
+  img_src: /assets/images/celebrities/dina-bair.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Borris Powell
+  lastname: Powell
+  firstname: Borris
+  title: Borris Powell Designs
+  img_src: /assets/images/celebrities/borris-powell.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: John Garcia
+  lastname: Garcia
+  firstname: John
+  title: ABC 7
+  img_src: /assets/images/celebrities/john-garcia.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Mary Ann Kleist
+  lastname: Kleist
+  firstname: Mary Ann
+  title: CBS 2
+  img_src: /assets/images/celebrities/mary-ann-kleist.jpg
+  url:   
+  role: Bartender  
+  day: Saturday
+
+- name: Suzanne Carlson
+  lastname: Carlson
+  firstname: Suzanne
+  title: NBC 5
+  img_src: /assets/images/celebrities/suzanne-carlson.jpg
+  url:   
+  role: Greeter  
+  day: Friday
+
+- name: Natalie Martinez
+  lastname: Martinez
+  firstname: Natalie
+  title: NBC 5 News
+  img_src: /assets/images/celebrities/natalie-martinez.jpg
+  url:   
+  role: Greeter 
+  day: Saturday
+
+- name: Alicia Roman
+  lastname: Roman
+  firstname: Alicia
+  title: NBC 5
+  img_src: /assets/images/celebrities/alicia-roman.jpg
+  url:   
+  role: Greeter
+  day: Saturday
