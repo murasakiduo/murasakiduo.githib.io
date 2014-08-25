@@ -2,9 +2,9 @@
 layout: default
 title: About Us
 permalink: /about/
-image_url: about/images/Kutz-1993.jpg
+image_url: "about/images/Kutz-1993.jpg"
 caption: Photo by Christian Steiner
-
+published: true
 ---
 
 Since its founding in 1996, the Murasaki Duo has been dedicated to performing the cello and piano literature as chamber music. The Duo's recent Carnegie Hall concert was lauded by _New York Concert Review_ as possessing "an unusually high level of ensemble playing," and having "an easy virtuosity." The Murasaki Duo has performed throughout the United States and Canada, including concerts in New York City, Los Angeles, Chicago, and Toronto, and has won recognition as one of the leading ensembles of its genre. Advocates for new music, it actively commissions new works, in addition to performing the classics.
